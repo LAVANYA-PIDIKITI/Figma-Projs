@@ -1,0 +1,17 @@
+.button {
+  position: relative;
+}
+.property-1button-default {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gainsboro);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-61xl);
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
